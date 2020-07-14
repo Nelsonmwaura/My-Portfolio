@@ -1,4 +1,5 @@
-# My-Portfo## Authors
+# My-Portfolio
+## Authors
 - [Nelson Godfrey Mwaura](https://github.com/Nelsonmwaura)
 
 ## Project setup instructions
