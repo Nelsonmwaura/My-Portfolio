@@ -1,0 +1,33 @@
+h1{
+  color:#FFC300;
+  text-align: center;
+}
+h2{
+  color: #C70039 ;
+}
+p{
+  color:white;
+}
+.Reason{
+  font-style: italic;
+  font-size: 18px;
+  border-radius: 20px;
+}
+h3{
+  color:#2CA69C ;
+}
+h4{
+  color:#103806  ;
+  text-align:left;
+}
+.Links{
+  border-radius: 20px;
+  color:darkred;
+}
+p.Links{
+  color:white;
+}
+body{
+  background-color:#EDE8E7  ;
+  font-family: sans-serif;
+}
