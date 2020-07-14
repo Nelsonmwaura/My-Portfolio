@@ -5,14 +5,6 @@ h1{
 h2{
   color: #C70039 ;
 }
-span{
-     color: hsla(0deg, 50%, 40%, 0.5);
-     background-color:#FFC300 ;
-}
-div{
-  color: hsla(0deg, 50%, 100%, 0.5);
-  background-color:#9FA4A4  ;
-}
 p{
   color:white;
 }
@@ -38,5 +30,4 @@ p.Links{
 body{
   background-color:#EDE8E7  ;
   font-family: sans-serif;
-
 }
